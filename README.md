@@ -1,2 +1,2 @@
-# randys
+# Randys
 Randy's Pizza
